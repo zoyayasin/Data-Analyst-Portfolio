@@ -24,4 +24,8 @@ We will be working with six related tables,which contain eCommerce data about.
 
 We'll use MySQL to understand how customers access and interact with the site,analyze landing page performance and conversion, and explore product level sales.
 
-(https://github.com/zoyayasin/Data-Analyst-Portfolio/blob/main/Website%20visit.JPG)
+# DASHBOARDS
+![Website visit](https://user-images.githubusercontent.com/18356151/195187605-882b9e99-88fe-4611-99a2-bf7f9451bacd.JPG)
+
+
+![Website visit1](https://user-images.githubusercontent.com/18356151/195187618-0fc945d3-fc71-4d33-91aa-73d8ddc1d40f.JPG)
