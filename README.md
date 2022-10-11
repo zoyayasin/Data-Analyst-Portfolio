@@ -1,4 +1,4 @@
-# Zoya_freelancer
+DATA ANALYST PORTFOLIO
 This is freelancing portfoliop for Data analyst
 Traffic analysis and Optimisation -Ecommerce Database analyst
 Overview:-
