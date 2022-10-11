@@ -1,3 +1,4 @@
+![facebook-ads-dashboard-in-google-data-studio-1-629894b65a219-sej](https://user-images.githubusercontent.com/18356151/195185029-bc1653cf-13f5-47da-b03a-d7f2532dd3da.png)
 # DATA ANALYST PORTFOLIO
 This is freelancing portfolio for Data analyst
 # Project 1:-Traffic analysis and Optimisation -Ecommerce Database analyst
